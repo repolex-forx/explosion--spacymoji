@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacymoji",
+  "versions": [
+    {
+      "commit": "408d047e7a0d48ab08d8230072935e8c2a98718f",
+      "tag": "v3.1.0",
+      "parsed_at": "2026-10-28T11:36:14.083173+00:00"
+    }
+  ]
+}
