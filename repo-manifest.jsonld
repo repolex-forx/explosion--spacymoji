@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacymoji/commit/408d047e7a0d48ab08d8230072935e8c2a98718f",
       "git:hexsha": "408d047e7a0d48ab08d8230072935e8c2a98718f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.1.0",
+      "repolex:parsedAt": "2026-10-28T11:36:13.951715+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacymoji/commit/6abd60ec96452141c5a5fa46aff9cac2283892ee",
