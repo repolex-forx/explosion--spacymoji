@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "spacymoji",
+  "versions": [
+    {
+      "commit": "408d047e7a0d48ab08d8230072935e8c2a98718f",
+      "parsed_at": "2026-10-28T11:33:45.630926+00:00",
+      "tag": "v3.1.0",
+      "filetree": "filetree/408d047e7a0d48ab08d8230072935e8c2a98718f.nq.gz",
+      "blobs": [
+        "blob/f4590f1164aa9428225a3ecec2fa02cb5aaaa35a.nq.gz",
+        "blob/6b10277c527c18228a17ef0a1f32e23bb14b46a9.nq.gz",
+        "blob/a5079c3bdd4f458b7e01e5ef57271d2e69ec02ae.nq.gz",
+        "blob/72428aa5c025cef03dd3b51f3b0c3b5bda755f49.nq.gz",
+        "blob/c1a7121c1bd6c9648bc686c95b1c7a94dd69cdd3.nq.gz",
+        "blob/3e08ebfeffa35859f8477478630518172faa5560.nq.gz",
+        "blob/fed528d4a7a148fd0bf0b0198a6461f8c91b87e9.nq.gz",
+        "blob/e56af0340d8bc96487f01c19b5a186f03c123b30.nq.gz",
+        "blob/837de84c0ae704fe59a7af41676a02cf9f86f076.nq.gz",
+        "blob/ae2dced154c3d29e64d8a00b9172fb723df27910.nq.gz",
+        "blob/a0f8b4003bd652a9404495e5ed7e056debc1a07e.nq.gz",
+        "blob/0bd24012ae5ec965cf7b7d3e2ecb5eff696f8879.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
